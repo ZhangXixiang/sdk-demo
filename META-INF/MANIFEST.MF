@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: shangou_platform_open_sdk
+Implementation-Version: 1.0.35.1-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: sankuai
+Implementation-Vendor-Id: com.sankuai.meituan.shangou
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://www.meituan.com/shangou_platform_open_servi
+ ce/shangou_platform_open_sdk
+Implementation-Vendor: Sankuai Software, Inc.
+
